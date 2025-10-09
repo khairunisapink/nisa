@@ -1,2 +1,1 @@
-# nisa
-for tugas ptgm 
+
